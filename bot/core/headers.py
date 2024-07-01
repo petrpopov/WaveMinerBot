@@ -1,0 +1,20 @@
+headers = {
+    'Accept': '*/*',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Cache-Control': 'no-cache',
+    'Client-Sdk-Type': 'typescript',
+    'Client-Sdk-Version': '0.51.0',
+    'Client-Target-Api-Version': '1.21.0',
+    'Content-Type': 'application/json',
+    'Origin': 'https://walletapp.waveonsui.com',
+    'Pragma': 'no-cache',
+    'Priority': 'u=1, i',
+    'Referer': 'https://walletapp.waveonsui.com/',
+    'Sec-Ch-Ua': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
+    'Sec-Ch-Ua-Mobile': '?1',
+    'Sec-Ch-Ua-Platform': '"Android"',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'cross-site',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36'
+}
